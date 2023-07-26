@@ -230,3 +230,4 @@ xmlgraphics-commons-2.7.jar
 xnio-api-3.8.7.Final.jar
 xnio-nio-3.8.7.Final.jar
 zip4j-2.9.0.jar
+webp-imageio-0.1.6.jar
