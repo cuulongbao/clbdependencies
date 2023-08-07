@@ -231,3 +231,5 @@ xnio-api-3.8.7.Final.jar
 xnio-nio-3.8.7.Final.jar
 zip4j-2.9.0.jar
 webp-imageio-0.1.6.jar
+core-3.3.0.jar
+javase-3.3.0.jar
