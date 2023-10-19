@@ -233,3 +233,5 @@ zip4j-2.9.0.jar
 webp-imageio-0.1.6.jar
 core-3.3.0.jar
 javase-3.3.0.jar
+spring-session-core-2.7.0.jar
+spring-session-jdbc-2.7.0.jar
